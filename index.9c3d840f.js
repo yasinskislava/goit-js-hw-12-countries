@@ -15,4 +15,4 @@ var t=globalThis;function n(t){return t&&t.__esModule?t.default:t}var e={},r={},
                     <img src="${n[0].flags.png}">
                 </div>
             </div>`,console.log(n[0])}else(0,o.error)({text:"No countries found!"}),f.innerHTML=""})},500));
-//# sourceMappingURL=index.e26fd553.js.map
+//# sourceMappingURL=index.9c3d840f.js.map
