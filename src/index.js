@@ -2,8 +2,8 @@ import {
   error,
   alert,
   defaultModules,
-} from "../../node_modules/@pnotify/core/dist/PNotify.js";
-import * as PNotifyMobile from "../../node_modules/@pnotify/mobile/dist/PNotifyMobile.js";
+} from "@pnotify/core/dist/PNotify.js";
+import * as PNotifyMobile from "@pnotify/mobile/dist/PNotifyMobile.js";
 import defaults from "@pnotify/core";
 defaults.styling = "material";
 
